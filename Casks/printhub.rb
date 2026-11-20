@@ -7,7 +7,7 @@ cask "printhub" do
   desc "Native macOS control room for Creality 3D printers"
   homepage "https://github.com/frankt2012/PrintHub"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "PrintHub.app"
 
