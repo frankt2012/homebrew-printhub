@@ -1,6 +1,6 @@
 cask "printhub" do
-  version "0.2.0"
-  sha256 "2657414982799480dc1dbe857a85a6098e6ef3346ff28b7c83aac076899c2ae9"
+  version "0.2.1"
+  sha256 "81b09cfd13afc7e5bdb61e798cf92d6ea4da61e7a83e991275660cf1a5ba3a73"
 
   url "https://github.com/frankt2012/PrintHub/releases/download/v#{version}/PrintHub-#{version}.dmg"
   name "PrintHub"
